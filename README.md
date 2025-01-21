@@ -18,5 +18,5 @@
 - "chat": {
           "id": 123456789
 
-  4º)Por último só executar o script main com o meu token bot e o id do cliente cadastrado que irá enviar a mensagem
+4º) Por último só executar o script main com o meu token bot e o id do cliente cadastrado que irá enviar a mensagem
   para o bot do cliente pelo telegram!
